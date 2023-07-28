@@ -1,4 +1,5 @@
 "use client";
+import "reflect-metadata";
 import { remult } from "remult";
 import { Product } from "../custom-remult-entity-library/dist";
 import { useEffect } from "react";
